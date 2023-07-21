@@ -19,3 +19,11 @@
 
 # Go workspace file
 go.work
+
+
+# Book
+*.pdf
+book-src/
+
+# System
+.DS_Store

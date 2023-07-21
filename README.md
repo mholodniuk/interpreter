@@ -1,1 +1,3 @@
-# interpreter
+# Monkey language interpreter
+
+https://interpreterbook.com
